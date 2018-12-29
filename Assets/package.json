@@ -1,0 +1,10 @@
+{
+  "name": "tv.monry.xsvutility",
+  "displayName":  "XsvUtility",
+  "version": "0.1.0-preview.1",
+  "unity": "2018.3",
+  "description": "XsvUtility has serializer and deserializer for CSV, TSV.\n\nYou can deserialize any C# class instance from CSV, TSV like as JsonUtility.\nAlso you can serialize any instance to CSV, TSV.",
+  "keywords": [ "XsvUtility", "Serializer", "Parser", "CSV", "TSV" ],
+  "dependencies": {
+  }
+}
