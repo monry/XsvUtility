@@ -7,6 +7,18 @@ Also you can serialize any instance to CSV, TSV.
 
 ## Installation
 
+Specify repository URL `git://github.com/monry/upm.XsvUtility.git` with key `tv.monry.xsvutility` into `Packages/manifest.json` like below.
+
+```javascript
+{
+  "dependencies": {
+    // ...
+    "tv.monry.xsvutility": "git://github.com/monry/upm.XsvUtility.git",
+    // ...
+  }
+}
+```
+
 ## Usages
 
 ### Setup
