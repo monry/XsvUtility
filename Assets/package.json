@@ -1,7 +1,7 @@
 {
   "name": "tv.monry.xsvutility",
   "displayName":  "XsvUtility",
-  "version": "0.1.1-preview.1",
+  "version": "0.1.1-preview.2",
   "unity": "2018.3",
   "src": "Assets",
   "editorOnly": false,
